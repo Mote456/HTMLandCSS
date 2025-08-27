@@ -1,0 +1,49 @@
+#d1{
+      text-align: center;
+      background-color: mediumblue;
+      height: 50px;
+      width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    color: white;
+}
+#d2{
+     padding: 20px;
+     background-color: aliceblue;
+     border-radius: 10px;
+}
+#d3{
+     padding:20px;
+     background-color: aliceblue;
+     border-radius: 10px;
+}
+#d4{
+       height:50px;
+       width: 100%;
+       background-color: black;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+}
+#d5{
+      display: flex;
+      justify-content: center;
+      
+}
+#p1{
+    color: white;
+}
+#hr1{
+       border-bottom-style: dotted;
+}
+h1{
+    font-weight: bold;
+}
+
+/* body{
+      padding: 0;
+      margin: 0;
+} */
